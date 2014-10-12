@@ -1,6 +1,5 @@
 package roomreservation;
 
-import java.io.*;
 import java.util.*;
 
 class Customer {
